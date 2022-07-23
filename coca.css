@@ -1,0 +1,25 @@
+
+
+.cabezera {border:4px solid tomato;}
+
+ .logo {display: flex;
+ justify-content: center ;
+height: 100px;}
+
+h2 {height: 300px;
+width: 300px;}
+
+.padremain {display: flex;
+justify-content: space-around;}
+
+.mainhijo {font-size: 20px;
+text-decoration:overline;}
+
+.quienessomosnuestramision {max-width: 400px;
+max-height: 400px;
+;}
+
+.back {height: 500px;
+width: 500px;}
+.colorback {display:flex;
+justify-content: space-around;}
