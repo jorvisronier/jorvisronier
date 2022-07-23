@@ -1,0 +1,20 @@
+.dppal {
+    position: absolute;
+ }
+  
+ .dfondo {
+    width: 200px; height: 200px;
+    background-color: #ff0000;
+    filter:alpha(opacity=20);
+    -moz-opacity:0.2;
+    opacity: 0.2;
+    padding:10px;
+ }
+  
+ .dtexto {
+    width: 200px; height: 200px;
+    background-color: transparent;
+    position: absolute;
+    z-index: 2;
+    padding:10px;  
+ }
